@@ -1,0 +1,27 @@
+/* Name: Christopher Kastelec
+* Course: ICS 3U
+* Teacher Mrs. McCaffery
+*Description:
+*
+*
+*/
+
+
+//package outputsolution;
+
+public class Main {
+
+  static String taskValue = "B2";
+
+          public static void main(String[] args) {
+
+              //a fixed favorite number
+                int favNum = 7;
+                //prints out a circle with a favorite number
+                System.out.println("     "+favNum+favNum+favNum+favNum+"\n   "+favNum+favNum+"    "+favNum+favNum+"\n "+favNum+favNum+"        "+favNum+favNum+"\n "+favNum+favNum+"        "+favNum+favNum+"\n   "+favNum+favNum+"    "+favNum+favNum+"\n     "+favNum+favNum+favNum+favNum);
+              
+        
+            }  //end main
+
+
+} //end Main
